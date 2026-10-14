@@ -1,5 +1,4 @@
-cd ~/chamadorvoz
 git add .
-git commit -m "descrição do que mudou"
+git commit -m "descrição da mudança"
 git push
 
