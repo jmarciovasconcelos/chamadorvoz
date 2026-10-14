@@ -1,0 +1,54 @@
+{
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+20%",
+  "mensagens": [
+    "Comparecer ao portão de saída",
+    " sala de aula ",
+    "Biblioteca !",
+    "Favor comparecer ao RH",
+    "Todos Liberados"
+  ],
+  "ativa": 4,
+  "turmas": {
+    "6º Ano": [
+      "Ana Carolina",
+      "Bruno",
+      "Carlos",
+      "Daniela",
+      "Eduardo",
+      "João Pedro",
+      "Ana",
+      "Paula",
+      "Silvio",
+      "Maurício",
+      "Pedro",
+      "Henrique",
+      "Lorenzo Motta Vasconcelos "
+    ],
+    "7º Ano": [
+      "Fernanda",
+      "Gabriel",
+      "Helena",
+      "Igor",
+      "Júlia"
+    ],
+    "8º Ano": [
+      "Karen",
+      "Leonardo",
+      "Mariana",
+      "Nicolas",
+      "Olívia"
+    ],
+    "9º Ano": [
+      "Paulo",
+      "Quezia",
+      "Rafael",
+      "Sara",
+      "Tiago"
+    ],
+    "3º Ano A": [
+      "Ana Maria"
+    ],
+    ".": []
+  }
+}

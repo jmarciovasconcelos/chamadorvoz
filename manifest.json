@@ -1,0 +1,12 @@
+// --- MANIFESTO ---
+app.get('/manifest.json', (req, res) => {
+    res.json({
+        "name": "Cantina Digital", "short_name": "Cantina", "start_url": "/", "display": "standalone",
+        "background_color": "#121212", "theme_color": "#004d00", "orientation": "portrait",
+        "icons": [{ 
+            "src": "/ticket-img/mic.png", // <--- MUDOU AQUI (Aponta para sua imagem local)
+            "sizes": "512x512", 
+            "type": "image/png" 
+        }]
+    });
+});
